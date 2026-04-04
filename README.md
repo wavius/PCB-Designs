@@ -1,5 +1,5 @@
 # PCB Designs
-Parent repository for my PCB designs.
+Parent repository for my personal project PCB designs.
 <br>
 - [DAC Breakout Board](#dac-breakout-board)
 - [Drone Brushless DC Motor Controller](#drone-brushless-dc-motor-controller)
@@ -42,6 +42,11 @@ Compact PCB featuring a heart-shaped LED array.
   <img src="LED%20Heart%20Keychain/PCB%203D.png" alt="LED Heart Keychain" width="300px" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 <br>
+<div align="left">
+  <img src="LED%20Heart%20Keychain/heart.jpg" alt="LED Heart Keychain" width="300px" style="display: block; margin-left: auto; margin-right: auto;">
+</div>
+<br>
+
 
 ## Waveform Generator
 Power supply board with a configurable analog output using the IP2721 IC and digital +12V, -12V, +5V, +3V3 outputs.
