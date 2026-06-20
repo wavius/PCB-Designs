@@ -1,5 +1,5 @@
 # PCB Designs
-Parent repository for my personal project PCB designs.
+Parent repository for my personal PCB designs.
 <br>
 - [DAC Breakout Board](#dac-breakout-board)
 - [Drone Brushless DC Motor Controller](#drone-brushless-dc-motor-controller)
