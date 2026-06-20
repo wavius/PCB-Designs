@@ -11,8 +11,8 @@ Parent repository for my personal PCB designs.
 Breakout board for the MCP4725 12-Bit DAC by Microchip Technology.
 <br>
 <div align="left">
-  <img src="DAC%20Breakout%20Board/PCB%203D.png" alt="DAC Breakout Board" height="300px">
-  <img src="DAC%20Breakout%20Board/DAC.jpg" alt="DAC Breakout Board" height="300px">
+  <img src="DAC%20Breakout%20Board/PCB%203D.png" alt="DAC Breakout Board" width="500px">
+  <img src="DAC%20Breakout%20Board/DAC.jpg" alt="DAC Breakout Board" width="500px">
 </div>
 <br>
 
@@ -30,8 +30,8 @@ Three-phase sensorless BLDC motor controller using the A4963GLPTR-T driver IC wi
 Breakout board for the NHD-C12832A1Z-FSW-FBW-3V3 LCD Display by Newhaven Display.
 <br>
 <div align="left">
-  <img src="LCD%20Breakout%20Board/PCB%203D.png" alt="LCD Breakout Board" height="300px">
-  <img src="LCD%20Breakout%20Board/LCD.jpg" alt="LCD Breakout Board" height="300px">
+  <img src="LCD%20Breakout%20Board/PCB%203D.png" alt="LCD Breakout Board" width="500px">
+  <img src="LCD%20Breakout%20Board/LCD.jpg" alt="LCD Breakout Board" width="500px">
 </div>
 <br>
 
@@ -41,8 +41,8 @@ Compact PCB featuring a heart-shaped LED array.
 - Mounting hole for attachment to a keychain.
 <br>
 <div align="left">
-  <img src="LED%20Heart%20Keychain/PCB%203D.png" alt="LED Heart Keychain" height="500px">
-  <img src="LED%20Heart%20Keychain/heart.jpg" alt="LED Heart Keychain" height="500px">
+  <img src="LED%20Heart%20Keychain/PCB%203D.png" alt="LED Heart Keychain" width="500px">
+  <img src="LED%20Heart%20Keychain/heart.jpg" alt="LED Heart Keychain" width="500px">
 </div>
 <br>
 
@@ -54,7 +54,7 @@ Power supply board with a configurable analog output using the IP2721 IC and dig
 - LCD interface header for waveform and parameter display
 <br>
 <div align="left">
-  <img src="Waveform%20Generator/PCB%203D.png" alt="Waveform Generator" height="450px">
-  <img src="Waveform%20Generator/WFG_PCB.jpg" alt="Waveform Generator" height="450px">
+  <img src="Waveform%20Generator/PCB%203D.png" alt="Waveform Generator" width="500px">
+  <img src="Waveform%20Generator/WFG_PCB.jpg" alt="Waveform Generator" width="500px">
 </div>
 <br>
