@@ -41,8 +41,8 @@ Compact PCB featuring a heart-shaped LED array.
 - Mounting hole for attachment to a keychain.
 <br>
 <div align="left">
-  <img src="LED%20Heart%20Keychain/PCB%203D.png" alt="LED Heart Keychain" width="500px">
-  <img src="LED%20Heart%20Keychain/heart.jpg" alt="LED Heart Keychain" width="500px">
+  <img src="LED%20Heart%20Keychain/PCB%203D.png" alt="LED Heart Keychain" height="300px">
+  <img src="LED%20Heart%20Keychain/heart.jpg" alt="LED Heart Keychain" height="300px">
 </div>
 <br>
 
