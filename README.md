@@ -1,5 +1,5 @@
 # PCB Designs
-Parent repository for my personal PCB designs.
+Parent repository for my personal PCB designs. Designs requiring more documentation have their own repositories.
 <br>
 - [DAC Breakout Board](#dac-breakout-board)
 - [Drone Brushless DC Motor Controller](#drone-brushless-dc-motor-controller)
@@ -47,14 +47,7 @@ Compact PCB featuring a heart-shaped LED array.
 <br>
 
 ## Waveform Generator
-Power supply board with a configurable analog output using the IP2721 IC and digital +12V, -12V, +5V, +3V3 outputs.
-- 45 W USB-C input for power delivery
-- Switches, rotary encoder, and potentiometer to select waveform, frequency, phase, and output analog voltage
-- Integrated STM32 microcontroller with STLINK interface for waveform generation and system control
-- LCD interface header for waveform and parameter display
-<br>
-<div align="left">
-  <img src="Waveform%20Generator/PCB%203D.png" alt="Waveform Generator" width="500px">
-  <img src="Waveform%20Generator/WFG_PCB.jpg" alt="Waveform Generator" width="500px">
-</div>
-<br>
+
+Power supply PCB with a configurable signal output and fixed DC power rails.
+
+See [github.com/wavius/Waveform-Generator](https://github.com/wavius/Waveform-Generator) for the design files and documentation.
