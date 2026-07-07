@@ -24,7 +24,7 @@ Power supply board with a configurable analog output using the IP2721 IC and dig
 
 <br>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/wavius/Waveform-Generator/main/assets/pcb_lcd.jpg" alt="Waveform Generator" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="https://raw.githubusercontent.com/wavius/Waveform-Generator/main/assets/pcb_lcd.jpg" width="800" alt="PCB LCD Display">
 </div>
 <br>
 
@@ -44,7 +44,7 @@ This subsystem implements the RX Filter and Quadrature Mixer as part of the rece
 
 <br>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/wavius/Subsystem-A-ECE295/main/assets/images/sysA_pcb.jpg" alt="Subsystem A PCB" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="https://raw.githubusercontent.com/wavius/Subsystem-A-ECE295/main/assets/images/sysA_pcb.jpg" alt="Subsystem A PCB" width="500px">
 </div>
 <br>
 
@@ -58,7 +58,7 @@ Three-phase sensorless BLDC motor controller using the A4963GLPTR-T driver IC wi
 
 <br>
 <div align="left">
-  <img src="Drone%20Brushless%20DC%20Motor%20Controller/PCB%203D.png" alt="Drone Brushless DC Motor Controller" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="Drone%20Brushless%20DC%20Motor%20Controller/PCB%203D.png" alt="Drone Brushless DC Motor Controller" width="500px">
 </div>
 <br>
 
@@ -72,7 +72,8 @@ Compact PCB featuring a heart-shaped LED array.
 
 <br>
 <div align="left">
-  <img src="LED%20Heart%20Keychain/PCB%203D.png" alt="LED Heart Keychain" width="300px" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="LED%20Heart%20Keychain/PCB%203D.png" alt="LED Heart Keychain 3D" width="300px">
+  <img src="LED%20Heart%20Keychain/heart.jpg" alt="LED Heart Keychain Real" width="300px">
 </div>
 <br>
 
@@ -87,7 +88,8 @@ Breakout board for the MCP4725 12-Bit DAC by Microchip Technology.
 
 <br>
 <div align="left">
-  <img src="Breakout%20Boards/DAC%20Breakout%20Board/PCB%203D.png" alt="DAC Breakout Board" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="Breakout%20Boards/DAC%20Breakout%20Board/PCB%203D.png" alt="DAC Breakout Board 3D" width="500px">
+  <img src="Breakout%20Boards/DAC%20Breakout%20Board/DAC.jpg" alt="DAC Breakout Board Real" width="500px">
 </div>
 <br>
 
@@ -96,6 +98,7 @@ Breakout board for the NHD-C12832A1Z-FSW-FBW-3V3 LCD Display by Newhaven Display
 
 <br>
 <div align="left">
-  <img src="Breakout%20Boards/LCD%20Breakout%20Board/PCB%203D.png" alt="LCD Breakout Board" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="Breakout%20Boards/LCD%20Breakout%20Board/PCB%203D.png" alt="LCD Breakout Board 3D" width="500px">
+  <img src="Breakout%20Boards/LCD%20Breakout%20Board/LCD.jpg" alt="LCD Breakout Board Real" width="500px">
 </div>
 <br>
