@@ -72,8 +72,8 @@ Compact PCB featuring a heart-shaped LED array.
 
 <br>
 <div align="left">
-  <img src="LED%20Heart%20Keychain/PCB%203D.png" alt="LED Heart Keychain 3D" width="300px">
-  <img src="LED%20Heart%20Keychain/heart.jpg" alt="LED Heart Keychain Real" width="300px">
+  <img src="LED%20Heart%20Keychain/PCB%203D.png" alt="LED Heart Keychain 3D" height="700px">
+  <img src="LED%20Heart%20Keychain/heart.jpg" alt="LED Heart Keychain Real" height="700px">
 </div>
 <br>
 
@@ -81,7 +81,7 @@ Compact PCB featuring a heart-shaped LED array.
 
 ## Breakout Boards
 
-These are smaller helper and utility breakout boards created for prototyping and testing.
+These are smaller breakout boards created for prototyping and testing.
 
 ### DAC Breakout Board
 Breakout board for the MCP4725 12-Bit DAC by Microchip Technology.
