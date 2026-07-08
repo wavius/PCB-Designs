@@ -3,7 +3,7 @@ Parent repository for my PCB designs.
 
 Larger projects have their own repositories with more detailed documentation. Links to these are provided below in their respective sections.
 
-## Featured Projects
+## Projects
 
 - [Waveform Generator](#waveform-generator) - STM32-controlled power supply and analog waveform generator.
 - [Subsystem A (RF Receiver Chain)](#subsystem-a-rf-receiver-chain) - Discrete BJT Quadrature Mixer and RX Filter board.
