@@ -44,7 +44,7 @@ This subsystem implements the RX Filter and Quadrature Mixer as part of the rece
 
 <br>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/wavius/Subsystem-A-ECE295/main/assets/images/sysA_pcb.jpg" alt="Subsystem A PCB" width="500px">
+  <img src="https://raw.githubusercontent.com/wavius/Subsystem-A-ECE295/main/assets/images/sysA_pcb.jpg" alt="Subsystem A PCB" width="800px">
 </div>
 <br>
 
@@ -58,7 +58,7 @@ Three-phase sensorless BLDC motor controller using the A4963GLPTR-T driver IC wi
 
 <br>
 <div align="left">
-  <img src="Drone%20Brushless%20DC%20Motor%20Controller/PCB%203D.png" alt="Drone Brushless DC Motor Controller" width="500px">
+  <img src="Drone%20Brushless%20DC%20Motor%20Controller/PCB%203D.png" alt="Drone Brushless DC Motor Controller" width="600px">
 </div>
 <br>
 
